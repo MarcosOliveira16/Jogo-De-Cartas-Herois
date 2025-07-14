@@ -30,7 +30,7 @@ O aplicativo foi construído utilizando a plataforma de desenvolvimento low-code
 
 | Tela de Boas-Vindas  | Tela de Busca  |
 | :---: | :---: |
-| ![Tela de Boas-Vindas](https://i.imgur.com/gK2RgzN.png) | ![Tela de Busca](https://i.imgur.com/Y1gBv4R.png) |
+| ![Tela de Boas-Vindas]([https://i.imgur.com/gK2RgzN.png](https://drive.google.com/file/d/1te9L4JVvN2dhbrOB0WWFVOVwIux5iZec/view?usp=sharing)) | ![Tela de Busca][(https://i.imgur.com/Y1gBv4R.png](https://drive.google.com/drive/u/2/folders/1NnKd6t0P9nec7bJ-tYgqegBh1IvwGF8r)) |
 
 ## ⚙️ Como Funciona: Análise do Código
 
