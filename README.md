@@ -1,35 +1,34 @@
 # Jogo de Cartas de Heróis (FlutterFlow)
 
-![Tela de Detalhes do App][(https://i.imgur.com/uRj0LgQ.png](https://github.com/MarcosOliveira16/Jogo-De-Cartas-Herois/blob/main/assets/images/heroi_icon.png))
-[cite_start]*Tela de detalhes do aplicativo exibindo os atributos do personagem Deadpool[cite: 25, 586].*
+Tela de detalhes do aplicativo exibindo os atributos do personagem Deadpool
 
 ## 📖 Descrição do Projeto
 
-[cite_start]Este é um aplicativo de jogo de cartas de heróis desenvolvido como parte do Curso Técnico em Análise e Desenvolvimento de Sistemas da UEPB, em parceria com a FapesQ-PB[cite: 1, 2, 3]. [cite_start]O objetivo do projeto é demonstrar o processo de criação de um aplicativo móvel interativo que consome dados de uma API pública para exibir informações sobre personagens de histórias em quadrinhos[cite: 17, 18].
+Este é um aplicativo de jogo de cartas de heróis desenvolvido como parte do Curso Técnico em Análise e Desenvolvimento de Sistemas da UEPB, em parceria com a FapesQ-PB. O objetivo do projeto é demonstrar o processo de criação de um aplicativo móvel interativo que consome dados de uma API pública para exibir informações sobre personagens de histórias em quadrinhos.
 
-[cite_start]O aplicativo foi construído utilizando a plataforma de desenvolvimento low-code **FlutterFlow**, que permite a criação rápida de interfaces, e integrado com a **Super Hero API** para obter dados em tempo real sobre os heróis[cite: 17, 48, 63].
+O aplicativo foi construído utilizando a plataforma de desenvolvimento low-code **FlutterFlow**, que permite a criação rápida de interfaces, e integrado com a **Super Hero API** para obter dados em tempo real sobre os heróis.
 
 ### 👨‍💻 Equipe e Orientação
-* [cite_start]**Equipe:** Porfirio Andrade, Marcos Oliveira e Leones Silva de Oliveira[cite: 5].
-* [cite_start]**Professor Orientador:** Rodrigo Cesar Fonseca da Silva[cite: 2].
+* **Equipe:** Marcos Oliveira.
+* **Professor Orientador:** Rodrigo Cesar Fonseca da Silva.
 
 ## ✨ Funcionalidades Principais
 
-* [cite_start]**Busca de Heróis:** Permite ao usuário buscar por um personagem específico digitando seu nome[cite: 571].
-* [cite_start]**Visualização de Detalhes:** Exibe uma tela detalhada com a imagem, nome e editora do personagem selecionado[cite: 582].
-* [cite_start]**Atributos Dinâmicos:** Apresenta os atributos do herói (força, velocidade, inteligência e combate) de forma visual, utilizando barras de progresso que são preenchidas dinamicamente[cite: 20, 582].
-* [cite_start]**Cálculo de Média:** Calcula e exibe a média geral dos atributos do personagem em destaque[cite: 462, 524].
+* **Busca de Heróis:** Permite ao usuário buscar por um personagem específico digitando seu nome.
+* **Visualização de Detalhes:** Exibe uma tela detalhada com a imagem, nome e editora do personagem selecionado.
+* **Atributos Dinâmicos:** Apresenta os atributos do herói (força, velocidade, inteligência e combate) de forma visual, utilizando barras de progresso que são preenchidas dinamicamente.
+* **Cálculo de Média:** Calcula e exibe a média geral dos atributos do personagem em destaque.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* [cite_start]**[FlutterFlow](https://docs.flutterflow.io/):** Plataforma low-code baseada em Flutter, utilizada para construir a interface visual e a lógica do aplicativo[cite: 48].
-* [cite_start]**[Super Hero API](https://www.superheroapi.com/):** API pública que fornece dados detalhados sobre super-heróis e vilões, como estatísticas de poder, biografia e imagens[cite: 63, 64].
+* **[FlutterFlow](https://docs.flutterflow.io/):** Plataforma low-code baseada em Flutter, utilizada para construir a interface visual e a lógica do aplicativo.
+* **[Super Hero API](https://www.superheroapi.com/):** API pública que fornece dados detalhados sobre super-heróis e vilões, como estatísticas de poder, biografia e imagens.
 * **Dart/Flutter:** Linguagem de programação e framework que servem como base para o FlutterFlow.
 * **GitHub / GitHub Desktop:** Utilizados para controle de versão, documentação e gerenciamento do código-fonte do projeto.
 
 ## 🖼️ Telas da Aplicação
 
-| [cite_start]Tela de Boas-Vindas [cite: 564] | [cite_start]Tela de Busca [cite: 573] |
+| Tela de Boas-Vindas  | Tela de Busca  |
 | :---: | :---: |
 | ![Tela de Boas-Vindas](https://i.imgur.com/gK2RgzN.png) | ![Tela de Busca](https://i.imgur.com/Y1gBv4R.png) |
 
