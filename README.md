@@ -98,4 +98,3 @@ Para executar este projeto, você precisa ter o ambiente de desenvolvimento Flut
 
 * FLUTTERFLOW. Documentação oficial. Disponível em: https://docs.flutterflow.io/. [cite_start]Acesso em: 22 maio 2025. [cite: 606]
 * SUPERHERO API. Documentação oficial. Disponível em: https://www.superheroapi.com/. [cite_start]Acesso em: 22 maio 2025. [cite: 607]
-* [cite_start]MATERIAL DIDÁTICO fornecido pelo professor da Universidade Estadual da Paraíba (UEPB), na plataforma Google Classroom, referente à disciplina de Programação para Dispositivos Móveis. [cite: 609]
