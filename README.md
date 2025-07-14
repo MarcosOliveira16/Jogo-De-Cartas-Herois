@@ -1,7 +1,5 @@
 # Jogo de Cartas de Heróis (FlutterFlow)
 
-Tela de detalhes do aplicativo exibindo os atributos do personagem Deadpool
-
 ## 📖 Descrição do Projeto
 
 Este é um aplicativo de jogo de cartas de heróis desenvolvido como parte do Curso Técnico em Análise e Desenvolvimento de Sistemas da UEPB, em parceria com a FapesQ-PB. O objetivo do projeto é demonstrar o processo de criação de um aplicativo móvel interativo que consome dados de uma API pública para exibir informações sobre personagens de histórias em quadrinhos.
