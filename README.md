@@ -28,7 +28,7 @@ O aplicativo foi construído utilizando a plataforma de desenvolvimento low-code
 
 | Tela de Boas-Vindas | Tela de Busca | Tela de Detalhes |
 | :---: | :---: | :---: |
-| ![Tela de Boas-Vindas](./assets/docs_images/tela_bem_vindos.png) | ![Tela de Busca](./assets/docs_images/tela_pesquisa.png) | ![Tela de Detalhes](./assets/docs_images/tela_detalhes.png) |
+| ![Tela de Boas-Vindas](./assets/docs_images/tela_boas_vindas.png) | ![Tela de Busca](./assets/docs_images/tela_busca.png) | ![Tela de Detalhes](./assets/docs_images/tela_detalhes.png) |
 
 ## ⚙️ Como Funciona: Análise do Código
 
@@ -98,4 +98,4 @@ Para executar este projeto, você precisa ter o ambiente de desenvolvimento Flut
 
 * FLUTTERFLOW. Documentação oficial. Disponível em: https://docs.flutterflow.io/. [cite_start]Acesso em: 22 maio 2025. [cite: 606]
 * SUPERHERO API. Documentação oficial. Disponível em: https://www.superheroapi.com/. [cite_start]Acesso em: 22 maio 2025. [cite: 607]
-* [cite_start]MATERIAL DIDÁTICO fornecido pelo professor da Universidade Estadual da Paraíba (UEPB), na plataforma Google Classroom, referente à disciplina de Programação para Dispositivos Móveis. [cite: 609]
+* MATERIAL DIDÁTICO fornecido pelo professor da Universidade Estadual da Paraíba (UEPB), na plataforma Google Classroom, referente à disciplina de Programação para Dispositivos Móveis.
