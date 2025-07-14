@@ -1,6 +1,6 @@
 # Jogo de Cartas de Heróis (FlutterFlow)
 
-![Tela de Detalhes do App](https://i.imgur.com/uRj0LgQ.png)
+![Tela de Detalhes do App][(https://i.imgur.com/uRj0LgQ.png](https://github.com/MarcosOliveira16/Jogo-De-Cartas-Herois/blob/main/assets/images/heroi_icon.png))
 [cite_start]*Tela de detalhes do aplicativo exibindo os atributos do personagem Deadpool[cite: 25, 586].*
 
 ## 📖 Descrição do Projeto
