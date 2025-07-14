@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jogo de Cartas de Heróis (FlutterFlow)
 
 ## 📖 Descrição do Projeto
